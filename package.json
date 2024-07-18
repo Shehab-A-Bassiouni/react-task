@@ -1,4 +1,5 @@
 {
+  "homepage": "https://Shehab-A-Bassiouni.github.io/react-task",
   "name": "react-assesment",
   "private": true,
   "version": "0.0.0",
@@ -12,7 +13,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://Shehab-A-Bassiouni.github.io/react-assessment",
+ 
   "dependencies": {
     "bootstrap": "^5.3.3",
     "primeflex": "^3.3.1",
