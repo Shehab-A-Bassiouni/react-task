@@ -16,6 +16,7 @@ function App() {
       <BrowserRouter>
         <Header />
         <Routes>
+        <Route path="*" element={<Landing />} />
           <Route path="/" element={<Landing />} />
           <Route path="/home" element={<Landing />} />
           <Route path="/transactions" element={<Body />} />
